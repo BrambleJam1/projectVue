@@ -1,6 +1,7 @@
 # projectVue
 星巴克
 --目录结构
+```
 start
 |---test
 |   | - src
@@ -33,3 +34,4 @@ start
 |   |    |    | - request.js
 |   |    | - main.js //入口文件
 |   |    | - App.vue //根组件
+```
